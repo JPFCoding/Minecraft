@@ -1,1 +1,6 @@
-Baixar todo o conteudo de todas a branches, criar uma psta chamada .minecraft e colocar tudo nela, assim como na imagem. Tudo isso após ter baixado e instalado a jre presente na branch VersaoDaJRE.
+1-Baixar e instalar a JRE da branch JRE
+2-Baixar a pasta .minecraft no Drive, na pasta .minecraft
+3-Digitar %appdata% no menu de busca windows, colar .minecraft
+4-dentro da .minecraft, encontrar o executavel OldTlauncher e executar
+vai pedir para atualizar, não faça isso não.
+5-procurare a versão chamada Industrial e seja feliz.
