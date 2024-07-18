@@ -1,1 +1,1 @@
-Baixar todo o conteudo de todas a branches após ter baixado e instalado a jre presente na branch VersaoDaJRE
+Baixar todo o conteudo de todas a branches, criar uma psta chamada .minecraft e colocar tudo nela, assim como na imagem. Tudo isso após ter baixado e instalado a jre presente na branch VersaoDaJRE.
