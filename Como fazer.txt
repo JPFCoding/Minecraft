@@ -1,0 +1,1 @@
+Baixar todo o conteudo de todas a branches após ter baixado e instalado a jre presente na branch VersaoDaJRE
